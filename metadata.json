@@ -1,0 +1,8 @@
+{
+  "name": "Remix AMS",
+  "description": "AMS – Advanced Learning & Study platform for Class 10 & 12 students with AI study tutor, chapter notes, step learning, quizzes, and progress tracking with a modern and clean AMS brand logo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
